@@ -505,10 +505,6 @@ footer {
   justify-content: space-around;
 }
 
-.footer_logo {
-  /* flex-basis: 20%; */
-}
-
 .footer_text {
   color: #7e7e7e;
   font-style: normal;
